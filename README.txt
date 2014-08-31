@@ -1,8 +1,8 @@
 multispawn mod for minetest
 
-This mod allows to define many named spawns through ingame formspec gui. To be allowed
-to manage spawns, you need spawn_admin privs. This mod save its settings into world directory,
-to the file spawn.conf.
+This mod allows you to define many named spawns through the ingame formspec gui. To be allowed
+to manage spawns, you need spawn_admin privs. This mod saves its settings in the world directory,
+in the file spawn.conf.
 
 Spawns can be added/removed/edited without server restart.
 
@@ -29,10 +29,10 @@ Write name of (yours or playernames) nearest spawn
 Spawns you to nearest/specified spawn
 
 /spawnlist
-list all available spawns
+List all available spawns
 
 Credits:
-Thanks to fairiestoy and Ritchie for suggestions, advices and testing.
+Thanks to fairiestoy and Ritchie for suggestions, advice and testing.
 
 Licence: WTFPL
 
